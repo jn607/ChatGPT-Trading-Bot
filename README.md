@@ -7,4 +7,5 @@ System step-by-step:
 4. Implement trading logic e.g give headline a score 1-100 and buy or sell depending on what the score is.
 5. Optimise.
 
+We will be using Alpaca API to get the news events and OpenAI API to connect to ChatGPT.
 <img width="353" alt="image" src="https://github.com/user-attachments/assets/13505bda-024c-4ce0-9089-d86b1f1a7863">
