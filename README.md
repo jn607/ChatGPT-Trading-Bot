@@ -14,4 +14,4 @@ Volume and Trend Confirmation: Before making a trade, the bot confirms that the 
 
 ATR-Based Stop-Loss: A stop-loss order is dynamically placed using the ATR, which adapts to current volatility.
 
-Improved Logging: The bot logs trades and sentiment scores to give you visibility into its decisions, which is useful for debugging and strategy refinement.
+Improved Logging: The bot logs trades and sentiment scores to give us visibility into its decisions, which is useful for debugging and strategy refinement.
