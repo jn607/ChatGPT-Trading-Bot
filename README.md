@@ -9,6 +9,9 @@
 
 ### Improvements to make:
 Composite Sentiment Score: The bot now calculates a moving average of sentiment scores, making the sentiment signal more robust.
+
 Volume and Trend Confirmation: Before making a trade, the bot confirms that the volume is above average and the price movement supports the sentiment.
+
 ATR-Based Stop-Loss: A stop-loss order is dynamically placed using the ATR, which adapts to current volatility.
+
 Improved Logging: The bot logs trades and sentiment scores to give you visibility into its decisions, which is useful for debugging and strategy refinement.
