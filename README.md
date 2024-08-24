@@ -1,4 +1,4 @@
-Creating a trading bot using Alpaca API and OpenAI API.
+# Creating a trading bot using Alpaca API and OpenAI API.
 
 System step-by-step:
 1. Receive a news event
